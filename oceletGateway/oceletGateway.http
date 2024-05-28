@@ -1,0 +1,6 @@
+@oceletGateway_HostAddress = http://localhost:5047
+
+GET {{oceletGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

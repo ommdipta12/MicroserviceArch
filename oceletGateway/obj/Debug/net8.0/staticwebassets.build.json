@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CISoQT7izkLRVzLNLrW7fzzqQdHKGARzKWKDqSe9gDc=",
+  "Source": "oceletGateway",
+  "BasePath": "_content/oceletGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

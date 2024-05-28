@@ -1,0 +1,6 @@
+@State_HostAddress = http://localhost:5138
+
+GET {{State_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

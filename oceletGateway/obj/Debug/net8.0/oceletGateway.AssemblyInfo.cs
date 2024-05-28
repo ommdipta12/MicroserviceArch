@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("ed9eb3dd-21a5-4d07-8da3-d2a2043464ef")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("oceletGateway")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccb905d63dee5c0769e7608ca304bccddc72d6f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("oceletGateway")]
 [assembly: System.Reflection.AssemblyTitleAttribute("oceletGateway")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

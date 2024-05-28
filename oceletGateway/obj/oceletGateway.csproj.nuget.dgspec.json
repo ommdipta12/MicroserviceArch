@@ -44,6 +44,10 @@
               "target": "Package",
               "version": "[8.2.0, )"
             },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.5, )"
+            },
             "Ocelot": {
               "target": "Package",
               "version": "[23.2.2, )"
